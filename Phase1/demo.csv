@@ -1,4 +1,4 @@
-Date,Speed,Weather,Road_Condition,Vehicle_Type,Time,Seatbelt,Severity
+Date,Speed,Weather,Road_Condition,Vehicle_Type,Time,Seatbelt/Helmet,Severity
 2025/01/01,45,Sunny,Dry,Bike,Day,1,Minor
 2025-01-02,60,Rainy,W,Car,Night,0,Serious
 2025-01-03,80,Foggy,Wet,Truck,Night,,Fatal
