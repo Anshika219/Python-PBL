@@ -61,8 +61,3 @@ To build a predictive model that can:
 
 ---
 
-## 📈 Sample Output
-(Add your graphs/screenshots here)
-
-```md
-![Model Comparison](images/output.png)
